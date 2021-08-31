@@ -2,7 +2,7 @@
 
 ### Findings:
  
-* KNN - 81%
+* KNN - 82%
 * Random Forests - 89%
 * Logistic Regression - 87%
  
