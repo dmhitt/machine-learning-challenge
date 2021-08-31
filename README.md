@@ -6,10 +6,10 @@
 * Random Forests - 89%
 * Logistic Regression - 87%
  
-The best model that to predicts new exoplanets is Random Forests at 89% accuracy.
+The best model that predicts new exoplanets is Random Forests at 89% accuracy.
  
 I believe the model is good. 
  
 ### Conclusion:
-To achieve a better prediction further data cleaning and parameters tunning is necessary.
+To achieve a better prediction, further data cleaning and parameters tunning is necessary.
 
